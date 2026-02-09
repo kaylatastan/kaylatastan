@@ -13,7 +13,7 @@ Bridging the gap between deep mathematical modeling and scalable software deploy
 * **Frameworks:** PyTorch, Scikit-learn, TensorFlow.
 
 ### Software Engineering & Game Dev
-* **Languages:** Python, C#, C++, SQL.
+* **Languages:** Python, C#(Unity), C++, SQL.
 * **Engines:** Unity (AR/VR/Mobile).
 * **Core:** OOP, System Architecture, Mobile Application Development.
 
