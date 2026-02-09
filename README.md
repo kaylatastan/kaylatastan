@@ -1,47 +1,50 @@
-![Profil Arka Planı](https://media.licdn.com/dms/image/v2/D4D16AQEIVxJIu7xrcQ/profile-displaybackgroundimage-shrink_350_1400/B4DZU._Y9IHIAg-/0/1740518570492?e=1746662400&v=beta&t=762ifS3Mms2vnJ887SMKfHlMpOQowcGy18OvXyrAho0)
+# Kayla | AI & ML Engineer
 
+### ML Engineer
+Bridging the gap between deep mathematical modeling and scalable software deployment.
 
-# Kayla TAŞTAN
+---
 
-*Reverse engineering reality, one algorithm at a time*
+## Technical Proficiencies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kayla%20TAŞTAN-blue)](https://www.linkedin.com/in/kayla-tastan)
+### Artificial Intelligence & Machine Learning
+* **Models:** PPO (Reinforcement Learning), XGBoost, LightGBM, Random Forest, ARIMA, ANN.
+* **Techniques:** PCA (Dimensionality Reduction), SMOTE (Oversampling), Time-Series Forecasting, Ensemble Learning.
+* **Frameworks:** PyTorch, Scikit-learn, TensorFlow.
 
-## About Me
+### Software Engineering & Game Dev
+* **Languages:** Python, C#, C++, SQL.
+* **Engines:** Unity (AR/VR/Mobile).
+* **Core:** OOP, System Architecture, Mobile Application Development.
 
-I am a computer engineering student specializing in Artificial Intelligence (AI) development. My passion lies in deconstructing complex problems and crafting algorithmic solutions that bridge the gap between theoretical concepts and real-world applications.
+### MLOps & Infrastructure
+* **Orchestration:** Kubernetes.
+* **Containerization:** Docker.
+* **Version Control:** Git.
 
-## Projects
+---
 
-Here are some of the projects I've been working on:
+## Key Experience & Achievements
 
-### AI and Machine Learning
+### AI Engineering Intern | Proceedit (Expertel SL), Barcelona
+* **Precision:** Achieved 98% directional accuracy in high-frequency financial stock analysis.
+* **Architecture:** Developed and deployed ensemble models (PPO, XGBoost, LightGBM) for real-time decision support.
+* **Deployment:** Integrated AI pipelines using Docker and Kubernetes for high-availability systems.
 
-- **AI-Machine-Learning-Basics**: This repository encompasses various machine learning and AI projects, delving into topics such as linear regression, cost functions, and model representation. It includes Jupyter notebooks from self-learning exercises.
+### Academic Research & Projects
+* **Semiconductor Optimization:** Applied PCA and SMOTE on SECOM dataset for process efficiency.
+* **TÜBİTAK 2209-A:** Lead researcher on funded academic innovation project.
+* **Autonomous Systems:** Developing Unity-based simulations for synthetic data generation and environmental awareness.
 
-- **Harvard-CS-50-Introduction-To-AI**: A collection of configurations and projects developed during my exploration of Harvard's CS50 course on Artificial Intelligence.
+---
 
-- **pdf-ai-processing**: A project developed for T3-AI, focusing on processing and analyzing PDF documents using AI techniques.
+## Education
 
-### Other Notable Projects
+* **B.S. Computer Engineering:** Dumlupınar University (4th Year).
+* **International Experience:** 3-month AI Research Internship in Barcelona, Spain (Erasmus+).
 
-- **42-Ecole**: A compilation of projects and exercises undertaken during my time at 42 Ecole, emphasizing low-level programming and algorithmic challenges.
+---
 
-- **NinJ-Game**: Ninja Jay, a basic game created using Visual Studio, showcasing fundamental game development principles.
-
-## Skills
-
-- **Programming Languages**: Python, C
-
-- **Tools and Technologies**: Jupyter Notebook, Visual Studio
-
-- **Areas of Expertise**: Artificial Intelligence, Machine Learning, Game Development
-
-## Contact
-
-- **Location**: Istanbul
-
-- **LinkedIn**: [Kayla TAŞTAN](https://www.linkedin.com/in/kayla-tastan)
-
-Feel free to explore my repositories to see the projects I've been working on. I'm always open to collaboration and eager to connect with fellow enthusiasts in the field.
-::contentReference[oaicite:0]{index=0}
+## Connect
+* **Current Focus:** AI Software Engineering for Autonomous Platforms (UAV/UGV).
+* **Location:** Kütahya, Turkey / Open to International Opportunities.
