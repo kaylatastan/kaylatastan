@@ -47,4 +47,3 @@ Bridging the gap between deep mathematical modeling and scalable software deploy
 
 ## Connect
 * **Current Focus:** AI Software Engineering for Autonomous Platforms (UAV/UGV).
-* **Location:** Kütahya, Turkey / Open to International Opportunities.
