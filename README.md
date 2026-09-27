@@ -4,6 +4,10 @@
 
 Building end to end AI systems — from data and model evaluation to retrieval, agent orchestration, backend services, and production deployment.
 
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/f656603b-2e3e-4937-9b62-8df5bf557d50" />
+
+
+
 ---
 
 ## Technical Stack
