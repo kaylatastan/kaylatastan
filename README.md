@@ -92,4 +92,3 @@ Currently focused on:
 - Worked with AR/VR and mobile application development.
 - Experience with C++, OOP, and system architecture.
 - Explored simulation environments for autonomous-system and synthetic-data applications.
-- 
