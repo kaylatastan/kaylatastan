@@ -15,3 +15,5 @@ Building practical AI systems, from machine learning and model evaluation to LLM
 
 
 **Let's connect!** [LinkedIn · Kayla Taştan — Catch me there ↗](https://www.linkedin.com/in/kayla-tastan/)
+
+<img src="alfa/alfa.gif" width="768" alt="Alfa, my Gerberian Shepsky puppy, walking in, sitting down, and running past her yellow ball" />
