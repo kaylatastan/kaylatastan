@@ -10,10 +10,10 @@ Building practical AI systems, from machine learning and model evaluation to LLM
 
 **Development:** C++ · Flutter · TypeScript 
 
- <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/f656603b-2e3e-4937-9b62-8df5bf557d50" />
+<img src="alfa/alfa.gif" width="768" alt="Alfa, my Gerberian Shepsky puppy, walking in, sitting down, and running past her yellow ball" />
 
 
 
 **Let's connect!** [LinkedIn · Kayla Taştan — Catch me there ↗](https://www.linkedin.com/in/kayla-tastan/)
 
-<img src="alfa/alfa.gif" width="768" alt="Alfa, my Gerberian Shepsky puppy, walking in, sitting down, and running past her yellow ball" />
+
